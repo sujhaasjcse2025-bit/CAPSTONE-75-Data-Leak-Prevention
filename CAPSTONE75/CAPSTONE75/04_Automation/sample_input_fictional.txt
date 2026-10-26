@@ -1,0 +1,6 @@
+CAPSTONE 75 fictional test data
+Customer email: student.demo@example.com
+Phone: +91 98765 43210
+Registration ID: REG-TEST-1042
+API_KEY = DEMO_FAKE_KEY_NOT_REAL
+Please help draft a general support reply.
